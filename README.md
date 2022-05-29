@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Kaido Ruul
-- 👀 I’m interested in Python, Airflow, Spark, Big Data
+- 👋 I’m interested in Python, Airflow, Spark, Big Data
 - 🌱 I’m currently learning Python, Spark, AWS
 
 

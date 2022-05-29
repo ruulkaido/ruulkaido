@@ -1,4 +1,4 @@
-- 👋 I’m interested in Python, Airflow, Spark, Big Data, AWS
+👋 I’m interested in Python, Airflow, Spark, Big Data, AWS
 
 
 <!---
